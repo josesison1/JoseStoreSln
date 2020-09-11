@@ -3,6 +3,8 @@ This is based on Adam Freeman's PRO ASP.NET Core 3 book.
 
 https://www.apress.com/gp/book/9781484254394
 
+---
+
 ## Create Solution and Projects
 
     dotnet new globaljson --sdk-version 3.1.101 --output JoseStoreSln/OutdoorProducts  
@@ -13,8 +15,12 @@ https://www.apress.com/gp/book/9781484254394
     dotnet sln JoseStoreSln add JoseStoreSln/OutdoorProducts.Tests   
     dotnet add JoseStoreSln/OutdoorProducts.Tests reference JoseStoreSln/OutdoorProducts 
   
+  ---
+  
   ## Welcome Screenshot
   ![firstscreenshot](https://github.com/josesison1/JoseStoreSln/blob/master/WelcomeScreen.PNG)
+
+---
 
   ## Lab 1B - Sports Store Questions (1-5)
 1. What is Entity Framework?
