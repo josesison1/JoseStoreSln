@@ -13,7 +13,7 @@ https://www.apress.com/gp/book/9781484254394
     dotnet sln JoseStoreSln add JoseStoreSln/OutdoorProducts.Tests   
     dotnet add JoseStoreSln/OutdoorProducts.Tests reference JoseStoreSln/OutdoorProducts 
   
-  ## Welcome screen screenshot
+  ## Welcome Screenshot
   ![firstscreenshot](https://github.com/josesison1/JoseStoreSln/blob/master/WelcomeScreen.PNG)
 
   ## Lab 1B - Sports Store Questions (1-5)
