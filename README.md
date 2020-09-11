@@ -16,5 +16,14 @@ https://www.apress.com/gp/book/9781484254394
   ## Welcome screen screenshot
   ![firstscreenshot](https://github.com/josesison1/JoseStoreSln/blob/master/WelcomeScreen.PNG)
 
-  
+  ## Lab 1B Questions
+1. What is Entity Framework?
+
+2. What is a Connection String?
+
+3. What is a Database Context?
+
+4. What is a Model Repository?
+
+5. Migration vs Scaffolding?
   
