@@ -19,6 +19,9 @@ https://www.apress.com/gp/book/9781484254394
   
   ## Welcome Screenshot
   ![firstscreenshot](https://github.com/josesison1/JoseStoreSln/blob/master/Sports%20Store%20Screenshots/WelcomeScreen.PNG)
+  
+  ## Products Screenshot
+  ![products](https://github.com/josesison1/JoseStoreSln/blob/master/Sports%20Store%20Screenshots/Products.PNG)
 
 ---
 
