@@ -18,12 +18,16 @@ https://www.apress.com/gp/book/9781484254394
 
   ## Lab 1B Questions
 1. What is Entity Framework?
+    Entity Framework is an object relational mapper (ORM) which is a tool that simplifies mapping between objects in your software to the tables and columns of the database.
 
 2. What is a Connection String?
+    Connection string used by Entity Framework contain information used to connect to the underlying ADO.NET data provider that supports the Entity Framework.
 
 3. What is a Database Context?
+    The Database context relates to Entity Framework by deriving from the class and simply incorporate Entity Framework based data access into the application.
 
 4. What is a Model Repository?
+    It is a relational database that stores the metadata for projects and folders. 
 
 5. Migration vs Scaffolding?
-  
+    Scaffolding is a quick way to generate the CRUD operation in a standarized way, creating the necessary logic that lets your application interact with the database. Migration is to perform model updates throughout the entire application which lets you modify your database after the model has changed.
