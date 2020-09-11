@@ -24,7 +24,7 @@ https://www.apress.com/gp/book/9781484254394
   ![products](https://github.com/josesison1/JoseStoreSln/blob/master/Sports%20Store%20Screenshots/Products.PNG)
 
   ## Bootstrap Screenshot
-  ![bootstrap] (https://github.com/josesison1/JoseStoreSln/blob/master/Sports%20Store%20Screenshots/bootstrap.PNG)
+  ![bootstrap](https://github.com/josesison1/JoseStoreSln/blob/master/Sports%20Store%20Screenshots/bootstrap.PNG)
   
 ---
 
