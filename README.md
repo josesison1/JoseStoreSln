@@ -37,3 +37,6 @@ __It is a relational database that stores the metadata for projects and folders.
 
 5. Migration vs Scaffolding?
 __Scaffolding is a quick way to generate the CRUD operation in a standarized way, creating the necessary logic that lets your application interact with the database. Migration is to perform model updates throughout the entire application which lets you modify your database after the model has changed.__
+
+---
+
