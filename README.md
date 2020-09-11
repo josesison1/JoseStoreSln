@@ -16,7 +16,7 @@ https://www.apress.com/gp/book/9781484254394
   ## Welcome screen screenshot
   ![firstscreenshot](https://github.com/josesison1/JoseStoreSln/blob/master/WelcomeScreen.PNG)
 
-  ## Lab 1B Questions
+  ## Lab 1B - Sports Store Questions (1-5)
 1. What is Entity Framework?
 __Entity Framework is an object relational mapper (ORM) which is a tool that simplifies mapping between objects in your software to the tables and columns of the database.__
 
