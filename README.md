@@ -48,14 +48,14 @@ __Scaffolding is a quick way to generate the CRUD operation in a standarized way
 
 # Chapter 8 
 ---
-## Fig 8-5
+## Categories Fig 8-5.
   ![cart](https://github.com/josesison1/JoseStoreSln/blob/master/Chapter%208%20Screenshot/categories%208-5.PNG)
 
 ---
-## Fig 8-10 & Fig 8-11
+## Add to Cart/Shopping Cart Fig 8-10. & Fig 8-11.
   ![fig](https://github.com/josesison1/JoseStoreSln/blob/master/Chapter%208%20Screenshot/Add%20to%20cart%20button%208-10.PNG)
   ![figs](https://github.com/josesison1/JoseStoreSln/blob/master/Chapter%208%20Screenshot/8-11.PNG)
 
 ---
-## Test Cases
+## Test Cases Complete
   ![test](https://github.com/josesison1/JoseStoreSln/blob/master/Chapter%208%20Screenshot/Finalized%20Test%20Cases.PNG)
