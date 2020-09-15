@@ -1,4 +1,4 @@
-# Student Project Demo
+# Chapter 7 - Student Project Demo 
 This is based on Adam Freeman's PRO ASP.NET Core 3 book.
 
 https://www.apress.com/gp/book/9781484254394
@@ -46,3 +46,16 @@ __Scaffolding is a quick way to generate the CRUD operation in a standarized way
 
 ---
 
+# Chapter 8 
+---
+## Fig 8-5
+  ![cart](https://github.com/josesison1/JoseStoreSln/blob/master/Chapter%208%20Screenshot/categories%208-5.PNG)
+
+---
+## Fig 8-10 & Fig 8-11
+  ![fig](https://github.com/josesison1/JoseStoreSln/blob/master/Chapter%208%20Screenshot/Add%20to%20cart%20button%208-10.PNG)
+  ![figs](https://github.com/josesison1/JoseStoreSln/blob/master/Chapter%208%20Screenshot/8-11.PNG)
+
+---
+## Test Cases
+  ![test](https://github.com/josesison1/JoseStoreSln/blob/master/Chapter%208%20Screenshot/Finalized%20Test%20Cases.PNG)
