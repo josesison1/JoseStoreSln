@@ -73,5 +73,5 @@ __Scaffolding is a quick way to generate the CRUD operation in a standarized way
   ![ordered](https://github.com/josesison1/JoseStoreSln/blob/master/Chapter%209%20Screenshot/Ordered%20fig%209-6.PNG)
 ---
 ## Test Cases
-  ![test](https://github.com/josesison1/JoseStoreSln/blob/master/Chapter%209%20Screenshot/test%20cases.PNG
+  ![test](https://github.com/josesison1/JoseStoreSln/blob/master/Chapter%209%20Screenshot/test%20cases.PNG)
 
